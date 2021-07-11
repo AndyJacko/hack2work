@@ -1,0 +1,43 @@
+CUSTOMER ACTIONS
+
+Customer logs into universal credit account.
+
+Clicks to view their profile.
+
+Profile has name, address, email, broad job titles and skills.
+
+Customer can add as many skills as they want.
+
+
+
+DWP ACTIONS
+
+New job is added to find a job website.
+
+Listing has job title, description etc...
+
+Listing has list of skills required for job.
+
+
+
+BEHIND THE SCENES
+
+Behind the scenes the find a job website will look for all UC customers in the local 
+area who match the job title and/or skills.
+
+Website will then send an email to all the people it matched.
+
+Email will say something like "we found a new local job that you are looking for/have skills for"
+
+Email will also say something like "you have 4 out of 5 skills this employer is looking for"
+
+
+CUSTOMER SIDE
+
+When customer clicks the email to view the listing it will show them the details and required skills 
+and also allow them to click "add" on skills they dont already have saved to save them to their profile.
+
+When a customer clicks to apply for the job the info is saved automatically in their journal entries.
+
+
+
